@@ -1,3 +1,6 @@
+// Rekha Velam - 5/19/2026
+// This application prints "Hello, World!" and the numbers 0 to 9.
+
 Rekha Velam - 5/19/2026
 
 console.log("Hello world!");
